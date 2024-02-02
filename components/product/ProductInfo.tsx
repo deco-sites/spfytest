@@ -46,6 +46,7 @@ function ProductInfo({ page, layout }: Props) {
     gtin,
     isVariantOf,
     additionalProperty = [],
+    brand,
   } = product;
   const description = product.description || isVariantOf?.description;
   const {
@@ -77,6 +78,9 @@ function ProductInfo({ page, layout }: Props) {
         <div>
           {gtin && <span class="text-sm text-base-300">Cod. {gtin}</span>}
         </div>
+        <span class="text-sm text-slate-600">
+          {brand?.name}
+        </span>
         <h1>
           <span class="font-medium text-xl capitalize">
             {layout?.name === "concat"

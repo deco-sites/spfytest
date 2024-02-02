@@ -90,8 +90,7 @@ const manifest = {
     "deco-sites/spfytest/sections/Miscellaneous/CookieConsent.tsx": $$$$$$36,
     "deco-sites/spfytest/sections/Miscellaneous/Slide.tsx": $$$$$$37,
     "deco-sites/spfytest/sections/Newsletter/Newsletter.tsx": $$$$$$43,
-    "deco-sites/spfytest/sections/Product/ImageGalleryFrontBack.tsx":
-      $$$$$$31,
+    "deco-sites/spfytest/sections/Product/ImageGalleryFrontBack.tsx": $$$$$$31,
     "deco-sites/spfytest/sections/Product/ImageGallerySlider.tsx": $$$$$$30,
     "deco-sites/spfytest/sections/Product/NotFound.tsx": $$$$$$34,
     "deco-sites/spfytest/sections/Product/NotFoundChallenge.tsx": $$$$$$26,
